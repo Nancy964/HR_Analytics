@@ -8,10 +8,10 @@ Employee attrition (voluntary or involuntary turnover) can significantly impact 
 3.Is there a pattern in employee exits based on age, gender, or salary?
 # 🎯Purpose of the Dashboard
 The purpose of this HR dashboard is to:
--> Monitor overall attrition and identify high-risk areas
--> Help HR departments make informed decisions on retention strategies
--> Provide management with visual evidence to guide policy changes
--> Track attrition across various employee demographics and job roles
+-> Monitor overall attrition and identify high-risk areas     
+-> Help HR departments make informed decisions on retention strategies      
+-> Provide management with visual evidence to guide policy changes      
+-> Track attrition across various employee demographics and job roles      
 # 🔍 Key Features & Visuals
 # Summary Metrics
 -> Total employees: 1470     
