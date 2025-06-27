@@ -14,19 +14,19 @@ The purpose of this HR dashboard is to:
 -> Track attrition across various employee demographics and job roles
 # 🔍 Key Features & Visuals
 # Summary Metrics
--> Total employees: 1470
--> Attrition count: 237
--> Attrition rate: 16.1%
--> Average age: 37
--> Average salary: $6.5K
--> Average tenure: 7 years
+-> Total employees: 1470     
+-> Attrition count: 237    
+-> Attrition rate: 16.1%      
+-> Average age: 37      
+-> Average salary: $6.5K      
+-> Average tenure: 7 years     
 # Attrition Breakdown
--> By Age Group:- Highest among 26–35 years
--> By Education:- Life Sciences and Medical dominate attrition
--> By Salary Slab:- Up to 5k group sees highest attrition
--> By Job Role:- Sales Executives and Research Scientists are top contributors
--> By Gender:- More males are leaving than females
--> By Years in Company:- Most attrition occurs in early tenure (1–2 years)
+-> By Age Group:- Highest among 26–35 years       
+-> By Education:- Life Sciences and Medical dominate attrition  
+-> By Salary Slab:- Up to 5k group sees highest attrition     
+-> By Job Role:- Sales Executives and Research Scientists are top contributors    
+-> By Gender:- More males are leaving than females      
+-> By Years in Company:- Most attrition occurs in early tenure (1–2 years)      
 # 📈 Insights Drawn from the Dashboard:
 High Attrition Rate:- Overall attrition rate is 16.1% (237 out of 1470 employees), indicating a noticeable employee turnover issue.     
 Departmental Trends:- Sales Executives (57 attritions) and Research Scientists (47 attritions) have the highest attrition, suggesting job pressure or dissatisfaction.     
