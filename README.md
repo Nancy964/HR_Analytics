@@ -1,17 +1,32 @@
 # HR_Analytics
-# Overview
+# 📊 Overview
 This project presents a dynamic HR Analytics Dashboard created using Power BI. The dashboard is designed to help companies analyze and visualize employee attrition patterns. By identifying trends related to age, salary, job roles, education background, gender, and tenure, HR teams can make data-driven decisions to reduce turnover and improve retention.
 # Problem Statement
 Employee attrition (voluntary or involuntary turnover) can significantly impact business productivity, morale, and cost. Without proper data analysis, it becomes challenging for organizations to understand:
 1. Why are employees leaving?
 2. Which departments or roles are most affected?
 3.Is there a pattern in employee exits based on age, gender, or salary?
-# Purpose of the Dashboard
+# 🎯Purpose of the Dashboard
 The purpose of this HR dashboard is to:
 -> Monitor overall attrition and identify high-risk areas
 -> Help HR departments make informed decisions on retention strategies
 -> Provide management with visual evidence to guide policy changes
 -> Track attrition across various employee demographics and job roles
+# 🔍 Key Features & Visuals
+# Summary Metrics
+-> Total employees: 1470
+-> Attrition count: 237
+-> Attrition rate: 16.1%
+-> Average age: 37
+-> Average salary: $6.5K
+-> Average tenure: 7 years
+# Attrition Breakdown
+-> By Age Group:- Highest among 26–35 years
+-> By Education:- Life Sciences and Medical dominate attrition
+-> By Salary Slab:- Up to 5k group sees highest attrition
+-> By Job Role:- Sales Executives and Research Scientists are top contributors
+-> By Gender:- More males are leaving than females
+-> By Years in Company:- Most attrition occurs in early tenure (1–2 years)
 # 📈 Insights Drawn from the Dashboard:
 High Attrition Rate:- Overall attrition rate is 16.1% (237 out of 1470 employees), indicating a noticeable employee turnover issue.
 Departmental Trends:- Sales Executives (57 attritions) and Research Scientists (47 attritions) have the highest attrition, suggesting job pressure or dissatisfaction.
